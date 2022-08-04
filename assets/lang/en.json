@@ -1,0 +1,83 @@
+{
+  "_comment LogIn": "all text in page LogIn",
+  "LogIn_title" : "Log In",
+  "LogIn_title1" : "Welcome Back!",
+  "LogIn_body" : "Log in your existent account of Menu Al.3la App",
+  "LogIn_email_controller_validate_isEmpty" : "please enter your email address",
+  "LogIn_email_textFiled_hint" : "Email",
+  "LogIn_password_controller_validate_isEmpty" : "please enter your password ",
+  "LogIn_password_controller_validate_isWeek" : " ",
+  "LogIn_password_textFiled_hint" : "Password",
+  "LogIn_button_text" : "Log In",
+  "LogIn_text_register" : "Don't have an account ?",
+  "LogIn_text_button_register" : "SIGN UP",
+  "LogIn_text_or" : " or ",
+  "LogIn_text_or2" : " Sing up with ",
+
+  "_comment add user": "all text in add user screen",
+  "Add_user_title" : "Sign Up",
+  "Add_user_title1" : "Add User",
+  "add_user_password_controller_validate_isWeek" : "your password is week ,please enter at least 5 characters",
+  "Add_user_label_name" : "Name",
+  "Add_user_validate_name" : "please enter yor name",
+  "Add_user_label_email" : "Email",
+  "Add_user_validate_email" : "please enter your email",
+  "Add_user_label_password" : "password",
+  "Add_user_validate_password" : "please enter your password",
+  "Add_user_label_confirmPassword" : "Confirm password",
+  "Add_user_validate_confirmPassword" : "please Confirm your password",
+  "Add_user_text_button" : "Sing Up",
+  "Add_user_text_register" : "You have an account ?",
+  "Add_user_text_button_register" : "SIGN IN",
+  "Add_user_showToast_error" : "confirm password not equal password",
+
+
+  "Page_modules_add_categories_page": "",
+  "categories_page_categories_is_empty": "this menu  is empty . \nadd new category",
+
+
+  "Page_modules_add_category_page": "",
+  "add_category_page_appBar_title":"Add new category",
+  "add_category_page_body_text_filed_add_name_label":"Name",
+  "add_category_page_body_text_filed_add_name_validate_isEmpty":"Please enter name for category",
+  "add_category_page_body_button_add_category":"Add Category",
+  "add_category_page_body_button_update_category":"Update Category",
+  "category_page_body_showDialogDelete_dec":"Do you want to delete this category",
+  "category_page_body_deleteActionPane":"Delete",
+  "category_page_body_editActionPane":"Edit",
+
+  "meals_page": "",
+  "meals_page_meals_is_empty": "This category  is empty . \nadd  new meal",
+
+
+  "Page_meal_details": "",
+  "Page_meal_details_textButton_update": "Update",
+  "Page_meal_details_textButton_save": "Save",
+
+  "Page_modules_add_meal_page": "",
+  "add_meal_page_appBar_title":"Add new meal",
+  "add_meal_page_body_text_filed_add_name_label":"Name",
+  "add_meal_page_body_text_filed_add_name_validate_isEmpty":"Please enter name for meal",
+  "add_meal_page_body_text_filed_add_describe_label":"How to prepare",
+  "add_meal_page_body_text_filed_add_describe_validate_isEmpty":"Please write how to prepare meal",
+  "add_meal_page_body_text_filed_add_ingredients_label":"ingredients",
+  "add_meal_page_body_text_filed_add_ingredients_validate_isEmpty":"Please enter ingredients for meal",
+  "add_meal_page_body_text_filed_add_note_label": "Note",
+  "add_meal_page_body_text_filed_add_category_label":"Category",
+  "add_meal_page_body_text_filed_add_category_dialog_label":"Choose category",
+  "add_meal_page_body_text_filed_add_category_validate_isEmpty":"Please choose category for meal",
+  "add_meal_page_body_button_add_meal":"Add meal",
+  "add_meal_page_body_button_update_meal":"Update meal",
+  "add_meal_page_body_button_delete_meal":"Do you want delete meal",
+  "add_meal_page_body_textField_search_liable": "Search",
+
+  "showDialog_OK_title":"OK",
+  "showDialog_Cancel_title":"Cancel",
+
+
+  "Setting page key": "",
+  "Setting_Page_Title_ChangeLanguage_button": "Change language",
+  "Setting_Page_Title_Dialog_ChangeLanguage": "Select language",
+  "Setting_Page_Title_Dialog_default": "default",
+  "Setting_Page_TitleButton_Dialog": "Select"
+}
